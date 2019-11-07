@@ -4,6 +4,7 @@
 
 1. [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 2. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+3. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## Fonts
 
@@ -12,14 +13,16 @@
 ## Angular
 
 1. [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-2. [Angular HTML Syntax](https://marketplace.visualstudio.com/items?itemName=dannymcgee.ng-html)
+2. [~~Angular HTML Syntax~~](https://marketplace.visualstudio.com/items?itemName=dannymcgee.ng-html)~~~~
+3. [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
+4. [Angular Snippets \(Version 8\)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&wt.mc_id=angularessentials-github-jopapa)
+5. [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console&wt.mc_id=angularessentials-github-jopapa)
 
 ## HTML
 
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 2. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-3. [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)
-4. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+3. [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) 
 
 ## CSS
 
@@ -43,9 +46,10 @@
 
 1. [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
 
-## Linters
+## Debugging
 
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+2. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&wt.mc_id=angularessentials-github-jopapa)
 
 {% page-ref page="../configs/eslint.md" %}
 
@@ -60,8 +64,9 @@
 ## Cosmetic
 
 1. [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-2. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-3. [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
+2. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+3. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+4. [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
 
 
 
