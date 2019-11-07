@@ -12,4 +12,5 @@
 
 * [Prettier](configs/prettier.md)
 * [ESLint](configs/eslint.md)
+* [Hyper.js Settings](hyper.js-settings.md)
 
