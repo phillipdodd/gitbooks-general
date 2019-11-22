@@ -6,7 +6,8 @@
 
 * [Visual Code Extensions](workspace-settings/visual-code-extensions.md)
 * [Visual Code Settings](workspace-settings/visual-code-settings.md)
-* [Visual Code Snippets](workspace-settings/visual-code-snippets.md)
+* [Visual Code Snippets](workspace-settings/visual-code-snippets/README.md)
+  * [Javascript](workspace-settings/visual-code-snippets/javascript.md)
 
 ## Configs
 
@@ -14,7 +15,7 @@
 * [Prettier](configs/prettier.md)
 * [ESLint](configs/eslint/README.md)
   * [ESLint for Portal](configs/eslint/eslint-for-portal.md)
-* [Hyper.js Settings](hyper.js-settings.md)
+* [Hyper.js Settings](configs/hyper.js-settings.md)
 
 ## Resources
 
