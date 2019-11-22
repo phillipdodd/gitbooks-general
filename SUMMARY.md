@@ -15,3 +15,7 @@
 * [ESLint](configs/eslint.md)
 * [Hyper.js Settings](hyper.js-settings.md)
 
+## Resources
+
+* [Cheatsheets](resources/cheatsheets.md)
+
