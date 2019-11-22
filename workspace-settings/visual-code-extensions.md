@@ -51,7 +51,7 @@
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 2. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&wt.mc_id=angularessentials-github-jopapa)
 
-{% page-ref page="../configs/eslint.md" %}
+{% page-ref page="../configs/eslint/" %}
 
 ## Formatting
 

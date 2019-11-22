@@ -12,7 +12,8 @@
 
 * [General](configs/general.md)
 * [Prettier](configs/prettier.md)
-* [ESLint](configs/eslint.md)
+* [ESLint](configs/eslint/README.md)
+  * [ESLint for Portal](configs/eslint/eslint-for-portal.md)
 * [Hyper.js Settings](hyper.js-settings.md)
 
 ## Resources
