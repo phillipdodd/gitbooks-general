@@ -70,7 +70,7 @@ By not specifying **any** rules, it will disable **all** rules.
 So, for writing Entity Methods, it is a simple matter of tossing a disable-next-line immediately preceding the definition:
 
 ```javascript
-// es-lint-disable-next-line no-unused-vars
+// eslint-disable-next-line no-unused-vars
 function hasMissingItem() {
     //* do some entity shenanigans
 }
