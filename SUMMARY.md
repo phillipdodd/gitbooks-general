@@ -20,4 +20,5 @@
 ## Resources
 
 * [Cheatsheets](resources/cheatsheets.md)
+* [Lua Setup](lua-setup.md)
 
